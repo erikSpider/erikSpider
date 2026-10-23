@@ -15,7 +15,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Java**
 ## 🚀 Projetos em destaque
 
 
-- **[Site Biblioteca]([https://github.com/erikSpider/site-biblioteca-PI-vis](https://github.com/erikSpider/site-biblioteca-PI-trabalho))** – projeto integrador de um site para biblioteca, em TypeScript.
+- **[Site Biblioteca](https://github.com/erikSpider/site-biblioteca-PI-trabalho)** – projeto integrador de um site para biblioteca, em TypeScript.
 
 ## 📚 Estudando atualmente
 
