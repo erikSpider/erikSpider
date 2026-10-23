@@ -14,8 +14,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Java**
 
 ## 🚀 Projetos em destaque
 
-- **[Financeiro Familiar](https://github.com/erikSpider/NOME-DO-REPO)** – aplicação para controle financeiro da família, com API REST em Spring Boot, banco MySQL e front-end em Angular.
-- **[Site Biblioteca](https://github.com/erikSpider/site-biblioteca-PI-vis)** – projeto integrador de um site para biblioteca, em TypeScript.
+
+- **[Site Biblioteca]([https://github.com/erikSpider/site-biblioteca-PI-vis](https://github.com/erikSpider/site-biblioteca-PI-trabalho))** – projeto integrador de um site para biblioteca, em TypeScript.
 
 ## 📚 Estudando atualmente
 
