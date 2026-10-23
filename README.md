@@ -1,4 +1,4 @@
-# Olá, eu sou o Erik Davi 👋
+# Olá, eu sou o Erik Davi 
 
 Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Java** em formação, focado em back-end com **Spring Boot** e front-end com **Angular**.
 
